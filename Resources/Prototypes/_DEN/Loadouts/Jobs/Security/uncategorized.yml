@@ -387,17 +387,3 @@
             - Security
   items:
     - PlasteelSpearSecurity
-
-- type: loadout
-  id: LoadoutSecurityTajVeil
-  category: JobsSecurityAUncategorized
-  cost: 2
-  exclusive: true
-  items:
-    - ClothingSecurityTajVeil
-  requirements:
-    - !type:CharacterItemGroupRequirement
-      group: LoadoutSecurityEyes
-    - !type:CharacterDepartmentRequirement
-      departments:
-        - Security

@@ -65,9 +65,7 @@
       id: LoadoutMedicalEyesGlassesChemical
     - type: loadout
       id: LoadoutMedicalEyesGlassesChemist
-    - type: loadout
-      id: LoadoutChemistryTajVeil
-      
+
 - type: characterItemGroup
   id: LoadoutChemistGloves
   maxItems: 1

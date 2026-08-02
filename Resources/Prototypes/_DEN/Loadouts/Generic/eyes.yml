@@ -27,14 +27,3 @@
   requirements:
   - !type:CharacterItemGroupRequirement
     group: LoadoutEyes
-
-- type: loadout
-  id: LoadoutCivilianTajVeil
-  category: Eyes
-  cost: 0
-  exclusive: true
-  items:
-   - ClothingCivilianTajVeil
-  requirements:
-   - !type:CharacterItemGroupRequirement
-    group: LoadoutEyes
